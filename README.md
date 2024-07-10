@@ -1,1 +1,1 @@
-# apple-stock-time-series
+# NVDIA Stock Prediction
