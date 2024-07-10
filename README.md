@@ -1,1 +1,1 @@
-# NVDIA Stock Prediction
+# NVIDIA Stock Prediction
